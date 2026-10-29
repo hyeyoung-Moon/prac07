@@ -1,6 +1,6 @@
 # print("hello, hyeyoung-Mun")
 
 def hello():
-    print("hello, hyeyoung-Mun")
+    print("hello, hyeyoung")
 
 hello()
